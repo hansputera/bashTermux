@@ -3,7 +3,7 @@ figlet Welcome
 sleep 0.1
 figlet To
 sleep 0.1
-clear
+clear 
 figlet My
 sleep 0.1
 figlet Termux!
